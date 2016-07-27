@@ -71,3 +71,13 @@ deploy:
   type: git
   repo: git@github.com:DanielHit/danielhit.github.io.git
   branch: master
+
+# comment
+duoshuo_shortname: razorer
+
+# feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:

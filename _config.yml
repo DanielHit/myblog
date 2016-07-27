@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 奥卡姆剃刀
 subtitle:
-description:
-author: John Doe
-language:
+description: 如无必要_勿增实体
+author: Daniel Hu
+language: zh-Hans
 timezone:
 
 # URL

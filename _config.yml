@@ -81,3 +81,7 @@ feed:
   path: atom.xml
   limit: 20
   hub:
+
+# share
+jiathis: true
+

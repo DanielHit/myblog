@@ -13,6 +13,7 @@ categories: 笔记
 > ### DRY （Don't Repeat Yourself）. 
 >   
 
+<!--more-->
 
 其实 在 **progmatic progrmaer(程序员修炼之道)** 也有类似的分享如何实现DRY, 作者提炼了一下几个核心原则，每个原则下面则是不同的tips. 应该算是一本程序员效率提升之书.
 

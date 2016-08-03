@@ -8,6 +8,8 @@ tags: hexo
 `hexo new [文章名称]` 在`_post`下面生成相应的文章
 `hexo new page "目录名称"` 生成了新的Menu
 
+<!-- more -->
+
 ### 2. 文章生成
 打开 `/source/_posts` 文件夹，打开生成新的文章，开始编辑. 可以使用sublime进行文章编辑
 
